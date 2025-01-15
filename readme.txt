@@ -1,7 +1,8 @@
 PET/CBM Keyboard Expander
 =========================
 
-http://www.6502.org/users/sjgray/projects/petexpkbd/index.html
+http://www.cbmsteve.ca
+http://www.cbmsteve.ca/petexpkbd/index.html
 
 This is a pcb to expand the PET/CBM keyboard from it's normal 10x8 matrix
 to a larger 16x8 matrix. It does this by mounting on the keyboard's VIA
